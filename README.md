@@ -1,4 +1,4 @@
-# Pakistan Trade Forecasting Project
+# Pakistan Trade Analyzing and Forecasting
 
 ## Description
 
